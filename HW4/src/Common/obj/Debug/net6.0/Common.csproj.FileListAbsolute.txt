@@ -1,0 +1,12 @@
+D:\PM_HW_Yana\HW4\src\Common\bin\Debug\net6.0\Common.deps.json
+D:\PM_HW_Yana\HW4\src\Common\bin\Debug\net6.0\Common.dll
+D:\PM_HW_Yana\HW4\src\Common\bin\Debug\net6.0\ref\Common.dll
+D:\PM_HW_Yana\HW4\src\Common\bin\Debug\net6.0\Common.pdb
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.dll
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\ref\Common.dll
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.pdb
+D:\PM_HW_Yana\HW4\src\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache

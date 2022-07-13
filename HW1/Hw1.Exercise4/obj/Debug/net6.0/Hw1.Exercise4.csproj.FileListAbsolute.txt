@@ -1,0 +1,15 @@
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\Hw1.Exercise4.exe
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\Hw1.Exercise4.deps.json
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\Hw1.Exercise4.runtimeconfig.json
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\Hw1.Exercise4.dll
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\ref\Hw1.Exercise4.dll
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\bin\Debug\net6.0\Hw1.Exercise4.pdb
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.csproj.AssemblyReference.cache
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.AssemblyInfoInputs.cache
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.AssemblyInfo.cs
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.csproj.CoreCompileInputs.cache
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.dll
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\ref\Hw1.Exercise4.dll
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.pdb
+D:\PM_HW_Yana\HW1\Hw1.Exercise4\obj\Debug\net6.0\Hw1.Exercise4.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Common",
+    "\\src\\Hw4.Exercise1",
+    "\\tests",
+    "\\tests\\Hw4.Exercise1.Tests"
+  ],
+  "SelectedNode": "\\src\\Common\\FileSystemProvider.cs",
+  "PreviewInSolutionExplorer": false
+}

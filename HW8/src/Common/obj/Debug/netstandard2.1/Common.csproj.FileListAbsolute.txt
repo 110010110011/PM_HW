@@ -1,0 +1,10 @@
+D:\PM_HW_Yana\HW8\src\Common\bin\Debug\netstandard2.1\Common.deps.json
+D:\PM_HW_Yana\HW8\src\Common\bin\Debug\netstandard2.1\Common.dll
+D:\PM_HW_Yana\HW8\src\Common\bin\Debug\netstandard2.1\Common.pdb
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.csproj.AssemblyReference.cache
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.AssemblyInfo.cs
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.csproj.CoreCompileInputs.cache
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.dll
+D:\PM_HW_Yana\HW8\src\Common\obj\Debug\netstandard2.1\Common.pdb

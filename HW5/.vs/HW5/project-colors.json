@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5181213-e18e-4090-b9df-1548eb914f08": {
+      "ProjectGuid": "d5181213-e18e-4090-b9df-1548eb914f08",
+      "DisplayName": "Common",
+      "ColorIndex": 0
+    },
+    "23755613-5517-4130-84a9-57cf23ec0ad2": {
+      "ProjectGuid": "23755613-5517-4130-84a9-57cf23ec0ad2",
+      "DisplayName": "Hw5.Exercise0",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e92b66a7-b96a-4bcb-8d50-c06d455cf348": {
+      "ProjectGuid": "e92b66a7-b96a-4bcb-8d50-c06d455cf348",
+      "DisplayName": "Hw5.Exercise0.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

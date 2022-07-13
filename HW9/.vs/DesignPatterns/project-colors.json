@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eeb39952-2381-49b3-bb6a-6c34aad4359d": {
+      "ProjectGuid": "eeb39952-2381-49b3-bb6a-6c34aad4359d",
+      "DisplayName": "DesignPatterns",
+      "ColorIndex": 0
+    },
+    "3d6d58f2-3de0-45f4-ba8f-9f926d7c369f": {
+      "ProjectGuid": "3d6d58f2-3de0-45f4-ba8f-9f926d7c369f",
+      "DisplayName": "DesignPatterns.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Lenovo\.nuget\packages\system.configuration.configurationmanager\4.4.0\ref\netstandard2.0\System.Configuration.ConfigurationManager.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11fe8bae_002D3d11_002D4882_002D989c_002D693422edc9f4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="App_Reads_Settings_File" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42AF9BD1-661C-4BD7-AE6E-7434D9C3932D::net6.0::Hw4.Exercise1.Tests.PrimesApplicationTests.App_Reads_Settings_File&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f58ef6b6_002D3948_002D43d6_002Da031_002D0f8b1d5fc439/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="App_Writes_Results_File_Correct_Primes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42AF9BD1-661C-4BD7-AE6E-7434D9C3932D::net6.0::Hw4.Exercise1.Tests.PrimesApplicationTests.App_Writes_Results_File_Correct_Primes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
